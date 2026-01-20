@@ -11,3 +11,10 @@ DOMAIN-SUFFIX,gradle.org
 DOMAIN-SUFFIX,hyperpay.io
 
 DOMAIN-SUFFIX,workers.dev
+
+# Antigravity / Codeium 核心
+DOMAIN-SUFFIX,codeium.com
+DOMAIN,unleash.codeium.com
+DOMAIN,api.codeium.com
+DOMAIN,auth.codeium.com
+DOMAIN,client.codeium.com
